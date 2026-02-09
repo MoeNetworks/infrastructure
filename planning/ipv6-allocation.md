@@ -82,6 +82,12 @@
 | `2a0f:1cc5:2131::/48` | 🇨🇦 Canada (CA) |
 | `2132` ~ `213f` | Reserved |
 
+**US City Sub-allocation (`2a0f:1cc5:2130::/48`):**
+
+| Prefix | City |
+|---|---|
+| `2a0f:1cc5:2130:100::/56` | Albuquerque, NM |
+
 ## South America (`2a0f:1cc5:2140::/44`)
 
 Regional pool — allocate on demand. No per-country split.

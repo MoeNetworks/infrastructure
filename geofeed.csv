@@ -7,7 +7,7 @@
 # Contact: noc@moenetworks.net
 #
 # Infrastructure
-2a0f:1cc5:2100::/44,,,,
+2a0f:1cc5:2100::/44,US,,,
 # Asia
 2a0f:1cc5:2110::/48,CN,,,
 2a0f:1cc5:2111::/48,HK,,,
@@ -29,6 +29,7 @@
 2a0f:1cc5:2128::/48,TR,,,
 # North America
 2a0f:1cc5:2130::/48,US,,,
+2a0f:1cc5:2130:100::/56,US,US-NM,Albuquerque,
 2a0f:1cc5:2131::/48,CA,,,
 # South America
 2a0f:1cc5:2140::/44,,,,
