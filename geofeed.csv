@@ -1,0 +1,40 @@
+# This is a geofeed file per RFC 8805
+# Format: prefix,country_code,region_code,city,postal_code
+# Reference: https://www.rfc-editor.org/rfc/rfc8805
+#
+# ASN: AS214773
+# Organization: MoeNet LLC
+# Contact: noc@moenetworks.net
+#
+# Infrastructure
+2a0f:1cc5:2100::/44,,,,
+# Asia
+2a0f:1cc5:2110::/48,CN,,,
+2a0f:1cc5:2111::/48,HK,,,
+2a0f:1cc5:2112::/48,MO,,,
+2a0f:1cc5:2113::/48,JP,,,
+2a0f:1cc5:2114::/48,SG,,,
+2a0f:1cc5:2115::/48,KR,,,
+2a0f:1cc5:2116::/48,TW,,,
+2a0f:1cc5:2117::/48,IN,,,
+# Europe
+2a0f:1cc5:2120::/48,DE,,,
+2a0f:1cc5:2121::/48,NL,,,
+2a0f:1cc5:2122::/48,GB,,,
+2a0f:1cc5:2123::/48,FR,,,
+2a0f:1cc5:2124::/48,FI,,,
+2a0f:1cc5:2125::/48,CH,,,
+2a0f:1cc5:2126::/48,ES,,,
+2a0f:1cc5:2127::/48,UA,,,
+2a0f:1cc5:2128::/48,TR,,,
+# North America
+2a0f:1cc5:2130::/48,US,,,
+2a0f:1cc5:2131::/48,CA,,,
+# South America
+2a0f:1cc5:2140::/44,,,,
+# Africa
+2a0f:1cc5:2150::/44,,,,
+# Oceania
+2a0f:1cc5:2160::/48,AU,,,
+# Antarctica
+2a0f:1cc5:2168::/45,AQ,,,
